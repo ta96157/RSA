@@ -1,0 +1,6 @@
+name: sympy-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - sympy
